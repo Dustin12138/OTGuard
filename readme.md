@@ -1,4 +1,4 @@
-# The PHYLINK
+# The PHYLINK paper
 
 We sufficiently gave files and folders in this repository descriptive names to allow for easy understanding for our reviewers.
 
